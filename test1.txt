@@ -1,2 +1,3 @@
-edited in master
-add in dev =1,b=2cd，有乱码问题
+edited in master and new
+
+I was changed in new branch a=1,b=2cd，有乱码问题
